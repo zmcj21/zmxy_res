@@ -1,0 +1,3 @@
+ver = 2
+in_res = 勇闯地府V1.01/assets/
+out_res = out_res/

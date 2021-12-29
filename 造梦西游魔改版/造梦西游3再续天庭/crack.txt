@@ -1,0 +1,3 @@
+ver = 3
+in_res = 造梦西游3之再续天庭V0.7/configfiles/
+out_res = out_res/
