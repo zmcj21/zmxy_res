@@ -5,3 +5,5 @@
 该版本flash文件已被加密，无法直接用ffdec.exe打开。
 
 out_res中的.swf文件为解密版本，可以直接用ffdec.exe打开。
+
+注意! out_res中的data.swf文件暂时无法被解密。
