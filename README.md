@@ -3,6 +3,8 @@
 
 最后更新日期：2021/12/30
 
+![BG](https://github.com/zmcj21/zmxy_res/blob/main/docs/level_static_1_bg.png)
+
 ### 公告
 
 我（造梦C君）正在使用unity3D开发造梦西游3怀旧联机版，使用的美术/音乐素材都来源于这个仓库，有志者可以联系我参与开发或测试：
