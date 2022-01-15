@@ -1,7 +1,7 @@
 # zmxy_res
 造梦西游资源
 
-最后更新日期：2021/12/30
+最后更新日期：2022/1/15
 
 ![BG](https://github.com/zmcj21/zmxy_res/blob/main/docs/level_static_1_bg.png)
 
@@ -24,3 +24,7 @@
 [造2/3加密swf文件处理器](https://github.com/jbji/ZaoMeng_JourneyToTheWest_3_4399_Flash_Utility)
 
 [Ruffle](https://github.com/ruffle-rs/ruffle)
+
+[FlashPoint](https://bluemaxima.org/flashpoint/)
+
+[Bilibili机智的远远](https://space.bilibili.com/100857231/?spm_id_from=333.999.0.0)
