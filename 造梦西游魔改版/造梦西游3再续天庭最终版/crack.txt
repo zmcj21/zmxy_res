@@ -1,0 +1,3 @@
+ver = 3
+in_res = 造梦西游3再续天庭0.72(最终版本)/assets/
+out_res = out_res/
