@@ -1,7 +1,7 @@
 # zmxy_res
 造梦西游资源
 
-最后更新日期：2022/1/15
+最后更新日期：2022/1/23
 
 ![BG](https://github.com/zmcj21/zmxy_res/blob/main/docs/level_static_1_bg.png)
 
